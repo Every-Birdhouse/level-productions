@@ -11,6 +11,9 @@
     background-color: #222;
     height: 150px;
     color: white;
+    width: 100%;
+    overflow: hidden;
+    height: 800px;
 }
 
 .Home-header video {
@@ -19,6 +22,15 @@
 
 .Home-intro {
     font-size: large;
+}
+
+.conclusion img {
+    width: 100%;
+}
+
+.conclusion-photo {
+    height: 80px;
+    overflow: hidden;
 }
 
 @keyframes Home-logo-spin {
