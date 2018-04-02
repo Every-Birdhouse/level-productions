@@ -9,11 +9,9 @@
 
 .Home-header {
     background-color: #222;
-    height: 150px;
     color: white;
     width: 100%;
     overflow: hidden;
-    height: 800px;
 }
 
 .Home-header video {
@@ -29,7 +27,7 @@
 }
 
 .conclusion-photo {
-    height: 80px;
+    height: 250px;
     overflow: hidden;
 }
 
